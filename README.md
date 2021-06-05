@@ -1,9 +1,4 @@
 
-███████████████████████████████████
-███▄─▄██▀▄─██▄─▄▄▀█▄─█─▄█▄─▄█─▄▄▄▄█
-█─▄█─███─▀─███─▄─▄██▄▀▄███─██▄▄▄▄─█
-▀▄▄▄▀▀▀▄▄▀▄▄▀▄▄▀▄▄▀▀▀▄▀▀▀▄▄▄▀▄▄▄▄▄▀
-
 # PythonJARVISProject
 Hello Guys!!! I am Ushnish and This is my Project for Tinkerpreneur 2021.... Hope you like my project..
 I think most of you have seen Marvel's Iron-Man... This project has been inspired from those movies itself and I have named it Jarvis
